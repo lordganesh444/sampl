@@ -9,6 +9,8 @@ public class primes {
     }
 
     // Method to check if a number is prime
+    // Method to check if a number is prime
+
     public static boolean isPrime(int n) {
         if (n <= 1) {
             return false; // Numbers less than or equal to 1 are not prime
